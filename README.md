@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/piyush422807/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/piyush422807/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/piyush422807/DSA/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/piyush422807/DSA/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/piyush422807/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/piyush422807/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
